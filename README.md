@@ -16,14 +16,6 @@ Aqui estão algumas das tecnologias que estou estudando e praticando no momento:
 * **Front-end:** HTML5, CSS3, JavaScript
 * **Em breve / Próximos passos:** React, Git & GitHub
 
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
